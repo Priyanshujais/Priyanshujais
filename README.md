@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Priyanshu Jaiswal
+<h1 align="center">Hi 👋, I'm Priyanshujais</h1>
+<h3 align="center">A Passionate Flutter Developer at Globtier Infotech Pvt Ltd</h3>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 💼 I'm a Flutter Developer at [Globtier Infotech Pvt Ltd].
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshujais&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshujais" /> </p>
+
+- 💼 I'm a Flutter Developer at [Globtier Infotech Pvt Ltd](https://www.globtierinfotech.com/)
 - 🏫 I have a strong background in mobile app development with Flutter.
 - 🌱 I’m currently enhancing my skills in state management.
 
